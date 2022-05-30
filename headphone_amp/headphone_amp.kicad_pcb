@@ -5,6 +5,13 @@
   )
 
   (paper "USLetter")
+  (title_block
+    (title "LM4808 Headphone Amp")
+    (date "2022-05-30")
+    (rev "0.1")
+    (company "Max Proskauer")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)

@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "headphone_amp")(type "KiCad")(uri "${KIPRJMOD}/headphone_amp.kicad_sym")(options "")(descr ""))
+  (lib (name "kosmo-lib")(type "KiCad")(uri "${KIPRJMOD}/../kosmo-lib/kosmo-lib.kicad_sym")(options "")(descr ""))
 )
